@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
-## Carribean --> Dominican
+## Carribean --> Puerto Rican
 ---
 Select a restaurant:
-## [El Viejo Yayo](https://g.co/kgs/MaEajFr)
+## [El Puerta Roja](https://g.co/kgs/ioHRCwv)
 ---
 [Back to Carribean](../carribean.md)
 [Start Over](../home.md)
